@@ -1,5 +1,5 @@
-- 👋 ¡Hola! Soy Dani Cabrera
-- 💻 Soy **Desarrollador Full Stack** con formación reciente en tecnologías web y experiencia previa en diseño gráfico, arte e ilustracion. Me apasiona construir aplicaciones atractivas y funcionales, combinando creatividad con tecnologías modernas.
+ ##👋 ¡Hola! Soy Dani  Cabrera
+- 💻 **Desarrollador Full Stack** con formación reciente en tecnologías web y experiencia previa en diseño gráfico, arte e ilustracion. Me apasiona construir aplicaciones atractivas y funcionales, combinando creatividad con tecnologías modernas.
 
 ---
 
