@@ -11,14 +11,16 @@
   
 ---
 ## 🌟 Proyectos Destacados:
-1. [Primer Mongoose](https://github.com/DaniCabrera91/primerMongoose)  
-   CRUD funcional con MongoDB para gestión de datos dinámicos.
 
-2. [React Día 1](https://github.com/DaniCabrera91/React-Dia1)  
-   Proyecto inicial con React, mostrando componentes dinámicos y estados.
+1. **[FS-Back](https://github.com/DaniCabrera91/FS-Back)**  
+   Backend desarrollado como parte de un proyecto grupal para una aplicación de banca móvil centrada en la salud financiera y el ahorro para **Kutxabank**. Implementa **Node.js**, **Express**, y **MongoDB**, con autenticación segura usando **JWT** y cifrado de contraseñas con **Bcrypt**, priorizando seguridad y escalabilidad.
 
-3. [Web de Noticias](https://github.com/DaniCabrera91/webNoticias)  
-   Aplicación web que presenta noticias de manera responsiva y moderna.
+2. **[FS-Front](https://github.com/DaniCabrera91/FS-Front)**  
+   Frontend que forma parte de un proyecto grupal para una aplicación de banca móvil centrada en la salud financiera y el ahorro para **Kutxabank**. Utiliza **React** con **Redux** para la gestión global del estado, combinando **Sass** y **TailwindCSS** para un diseño responsivo y moderno.
+
+3. **[Social Media Front](https://github.com/DaniCabrera91/socialMediaFront)**  
+   Prototipo frontend de una red social, desarrollado con **React** y centrado en el diseño intuitivo y la experiencia de usuario. Incluye manejo de estados y diseño responsivo.
+
 
 ---
 
